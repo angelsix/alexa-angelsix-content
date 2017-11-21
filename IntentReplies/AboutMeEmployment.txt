@@ -1,4 +1,4 @@
-﻿My first job was actually as an apprentice in engineering designing dog gearboxes for rally cars. I did the designs in Autodesk Inventor. The guys I worked with soon realised my potential in software and within 6 months I was creating custom gear ratio calculators that create a gear change graph showing power to gear ratios and worked out the perfect time to change gear. Before long I was also building computers, fixing CMM machines, programming CNC machines and soldering up old punched tape printer wiring.
+﻿My first job was actually as an apprentice in engineering designing dog gearboxes for rally cars. I did the designs in Autodesk Inventor. The guys I worked with soon realised my potential in software and within 6 months I was creating custom gear ratio calculators that create a gear change graph showing power to gear ratios and worked out the perfect time to change gear. Before long I was also building computers, fixing CMM machines, programming C.N.C. machines and soldering up old punched tape printer wiring.
 
 Moving on in my career I went into another CAD position, this time designing trailers for trucks. This time in SolidWorks. I started working with VBA Macros and the SolidWorks API.
 
@@ -24,4 +24,4 @@ If I could give anyone advice, here it is:
 2. Never hold onto money. Work for money to spend it and enjoy. Holding onto money just leads to depending on it. Be sensible, pay your bills and after that, spend the extra on yourself and loved ones. The best thing I have ever done in life is not care about how much money I do or do not have.
 3. Value the people that are there for you without asking or expecting in return. Money can buy everything except true friendship, trust and honesty. If you find people that have the former, respect them and treat them well.
 
-To find out more you can say, tell me about your skills, or if that is all say, stop.
+To find out more you can say, what else can I ask, or if that is all say, stop.

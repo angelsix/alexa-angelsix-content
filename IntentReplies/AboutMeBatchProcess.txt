@@ -13,11 +13,10 @@ Assembly tools for pack & go, hiding/showing & suppressing/resolving components,
 
 Benefits
 
-Saves 1000's of man hours per annum
+Saves thousands of man hours per annum
 Removes the need for any repetative tasks
 Reliability of a computer doing repetative tasks reduces chance of errors
 Provides enhanced features compared to the standard Custom Property Manager
-Product is always developing from customer feedback due to dedicated development team
 
 The best way to learn BatchProcess is to download and install it, then open up SolidWorks and start experimenting.
 

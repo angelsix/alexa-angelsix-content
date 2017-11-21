@@ -9,7 +9,7 @@ Atlassian Jira
 ASP.Net Core
 Assembly x86
 Assembly Microchip PIC8/16/32
-Assembly ARM M.C.U's
+Assembly ARM MCUs
 Autodesk Inventor
 Azure (Microsoft cloud)
 Bash (Linux)
@@ -23,7 +23,7 @@ Dts Files (Linux kernel)
 Css
 Git
 Html
-IIS
+I.I.S.
 iOS/iPad apps
 Java
 JavaScript
@@ -36,7 +36,7 @@ MVVM
 Objective-C
 Photoshop
 PHP
-PostgreSQL
+PostgreS.Q.L.
 SolidWorks
 SolidWorks API (VBA, Macros, C#)
 SQL Server
@@ -48,10 +48,10 @@ WCF
 Wix Installer
 WPF
 Xamarin (Android, iOS)
-Xcode
+X Code
 uBoot
 
-For those interested in exact details or considering me for a project and need to know particulars, here is a list of main hardware programs, tools and fields I am well-versed in.
+Here is a list of main hardware programs, tools and fields I am well-versed in.
 
 Altium Designer
 Arduino
@@ -70,4 +70,4 @@ Linux board bring-up
 Wireless charging
 WiFi & RF design
 
-To find out more, say, what else can I ask, or if that is all say, stop.
+To find out more, say, tell me about your employment, what else can I ask, or if that is all say, stop.

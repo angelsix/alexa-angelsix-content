@@ -2,15 +2,15 @@
 
 My best talent in highschool was Maths. I was very good at that. I took higher level math papers back in primary school (elementary for the americans) that were designed for people 5 years older, and I got very high scores on them.
 
-When I was 10, I had my first computer for Christmas. It was an Intel Pentium 300Mhz with a huge 500MB harddrive and a CRT monitor. It cost a lot, but I loved it. My computer interests started there. Naturally with games. I used to play Worms and Raptor. It was all good, until I got issues on the computer. Back then I had nobody to talk to on how to solve issues such as my sound not working in Raptor, which was a serious matter as a child and needed solving. So I took it upon myself to figure out and fix the issue myself, which involved configuring a custom Soundblaster driver to work with my non-Soundblaster sound card.
+When I was 10, I had my first computer for Christmas. It was an Intel Pentium 300Mhz with a huge 500MB harddrive and a C.R.T. monitor. It cost a lot, but I loved it. My computer interests started there. Naturally with games. I used to play Worms and Raptor. It was all good, until I got issues on the computer. Back then I had nobody to talk to on how to solve issues such as my sound not working in Raptor, which was a serious matter as a child and needed solving. So I took it upon myself to figure out and fix the issue myself, which involved configuring a custom Soundblaster driver to work with my non-Soundblaster sound card.
 
 Playing games was great, but soon I wanted to understand how exactly games were made, and to make my own. I got myself a copy of Adobe Flash and started playing with ActionScript to create some simple games like Pong, Tic-Tac-Toe, and a few custom space games I designed. My maths knowledge really helped here as using calculations and equations played a large part in making games.
 
 Adobe Flash allowed me to make visual games without having to do much in terms of rendering graphics. So naturally I wanted to know how to do the graphics myself.
 
-One thing about me is I have to know exactly how things work, right down to the fundamental building blocks. It's what lead me to learn DirectX, Assembly languages for processors and MCU's, building low-level hardware and coding kernel drivers.
+One thing about me is I have to know exactly how things work, right down to the fundamental building blocks. It's what led me to learn DirectX, Assembly languages for processors and MCU's, building low-level hardware and coding kernel drivers.
 
-I went from Adobe Flash to C, then to C++ and DirectX. I made some 2D games like Pacman (Visually Impaired link) and Snooker and then went onto making 3D games.
+I went from Adobe Flash to C, then to C++ and DirectX. I made some 2D games like Pacman and Snooker and then went onto making 3D games.
 
 By now I was about 13 and started getting interested in business. My parents are self-employed and run their own business. Naturally that rubbed off onto me, although nobody in my family has any computer knowledge other than me. I was bored with making games. I had learned all I could in games and wanted to know how computer programs worked in general, such as Microsoft Office and other general applications. So began my venture into custom applications.
 
