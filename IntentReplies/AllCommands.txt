@@ -1,0 +1,13 @@
+﻿You can ask me any of the following:
+
+tell me about yourself
+tell me more
+tell me about your skills
+tell me about your employment
+tell me about your YouTube
+what is batch process
+what is fasetto
+what is link
+what is your next video about
+
+Or if that is all say, stop.

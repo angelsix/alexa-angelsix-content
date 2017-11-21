@@ -1,0 +1,27 @@
+﻿My first job was actually as an apprentice in engineering designing dog gearboxes for rally cars. I did the designs in Autodesk Inventor. The guys I worked with soon realised my potential in software and within 6 months I was creating custom gear ratio calculators that create a gear change graph showing power to gear ratios and worked out the perfect time to change gear. Before long I was also building computers, fixing CMM machines, programming CNC machines and soldering up old punched tape printer wiring.
+
+Moving on in my career I went into another CAD position, this time designing trailers for trucks. This time in SolidWorks. I started working with VBA Macros and the SolidWorks API.
+
+I got very good at SolidWorks programming and subsequently wrote 2 books on programming and automation aimed at SolidWorks. I sold them for many years, and recently decided to release them for free.
+
+As my career progressed I slowly started to earn enough money from my books and BatchProcess along with custom web design that I could support myself and so quit my job and went fully self-employed.
+
+Having enough money to make my way, I started venturing into hardware. I started by creating a product called Arbiter - a rapid fire controller for the Xbox and Playstation. I built it by programming the Microchip PIC chips in assembly firstly, then C. I sold them online via an online shop I coded from scratch.
+
+The Arbiter was selling so well that I started expanding the online retail store into LEDs, screw drivers, hardware, health and beauty, electronics and more. Within 18 months I went from working at home to having 2 buildings and 17 employees at the busiest period.
+
+At the same time, my other software venture with my close friend and business partner also took off, in a big way. I had no choice but to sell the online retail business and focus on the software venture.
+
+Over the following years my knowledge in software and hardware blossomed and I have a very broad yet complete knowledge in almost every software language out today, with a rapidly growing skillset in hardware design. I've worked with games, mobile apps, websites, commercial and industrial apps, military, mass market and many other areas.
+
+My current companies focus on both software and hardware, with the main products being Fasetto, Link by fasetto and BatchProcess.
+
+I like to think I have learned a lot in a short space of time, with being in so many environments, running multiple businesses and having worked in the UK and US.
+
+If I could give anyone advice, here it is:
+
+1. If something feels wrong, or too good to be true, personally or in business, it almost certainly is.
+2. Never hold onto money. Work for money to spend it and enjoy. Holding onto money just leads to depending on it. Be sensible, pay your bills and after that, spend the extra on yourself and loved ones. The best thing I have ever done in life is not care about how much money I do or do not have.
+3. Value the people that are there for you without asking or expecting in return. Money can buy everything except true friendship, trust and honesty. If you find people that have the former, respect them and treat them well.
+
+To find out more you can say, tell me about your skills, or if that is all say, stop.

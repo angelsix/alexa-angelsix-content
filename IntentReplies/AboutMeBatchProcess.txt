@@ -1,0 +1,26 @@
+﻿BatchProcess is a very powerful automation tool for SolidWorks.
+
+When you have repetitive design tasks or variations of products, BatchProcess is the tool for you. Automate the tasks of exporting an entire assembly of parts and drawings, mass converting between file formats, printing, and running custom macros.
+
+Features
+
+Automatic printing of multiple files with setup and filtering
+Instant Custom Property Manager for instantly editing custom properties on single/multiple files
+Saving/Exporting files in over 28 native formats including DXF, DWG, IGES, Step, Parasolid, and eDrawings®
+Updating Drawing Templates for single/multiple files
+Assembly tools for pack & go, hiding/showing & suppressing/resolving components, and more
+
+
+Benefits
+
+Saves 1000's of man hours per annum
+Removes the need for any repetative tasks
+Reliability of a computer doing repetative tasks reduces chance of errors
+Provides enhanced features compared to the standard Custom Property Manager
+Product is always developing from customer feedback due to dedicated development team
+
+The best way to learn BatchProcess is to download and install it, then open up SolidWorks and start experimenting.
+
+You can download a free 50 day trial and start trying out BatchProcess for free at angelsix.com
+
+To find out more, say, what else can I ask, or if that is all say, stop.

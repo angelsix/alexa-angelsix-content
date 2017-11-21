@@ -1,0 +1,73 @@
+﻿For those interested in exact details or considering me for a project and need to know particulars, here is a list of the main languages, methodologies and platforms I am well-versed in.
+
+ActionScript
+Agile
+Ajax
+Android apps
+Atlassian BitBucket
+Atlassian Jira
+ASP.Net Core
+Assembly x86
+Assembly Microchip PIC8/16/32
+Assembly ARM M.C.U's
+Autodesk Inventor
+Azure (Microsoft cloud)
+Bash (Linux)
+Basic
+Batch (Windows/Dos)
+C
+C++
+C#
+DotNet Core
+Dts Files (Linux kernel)
+Css
+Git
+Html
+IIS
+iOS/iPad apps
+Java
+JavaScript
+JSON
+JQuery
+Kernel code (Linux kernel)
+KnockoutJS
+MVC
+MVVM
+Objective-C
+Photoshop
+PHP
+PostgreSQL
+SolidWorks
+SolidWorks API (VBA, Macros, C#)
+SQL Server
+Swift (Apple)
+VBA
+Visual Basic
+Visual Basic .Net
+WCF
+Wix Installer
+WPF
+Xamarin (Android, iOS)
+Xcode
+uBoot
+
+For those interested in exact details or considering me for a project and need to know particulars, here is a list of main hardware programs, tools and fields I am well-versed in.
+
+Altium Designer
+Arduino
+ARM MCUs (KL0, KL1, KL2...)
+Microchip PIC8/16/32
+Keil uVision & Tools
+Labcenter Proteus
+Xbox & Playstation hardware integration
+Cadsoft Eagle
+High-speed signal design
+HDI PCB layouts
+Power charging circuits
+Processors running Linux
+Raspberry Pi
+Linux board bring-up
+Wireless charging
+WiFi & RF design
+
+To find out more, say, what else can I ask, or if that is all say, stop.
