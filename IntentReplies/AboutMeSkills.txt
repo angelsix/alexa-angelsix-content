@@ -70,4 +70,4 @@ Linux board bring-up
 Wireless charging
 WiFi & RF design
 
-To find out more, say, tell me about your employment, what else can I ask, or if that is all say, stop.
+To find out more, say, your employment, what else can I ask, or if that is all say, stop.

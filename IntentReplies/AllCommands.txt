@@ -1,10 +1,10 @@
 ﻿You can ask me any of the following:
 
-tell me about yourself.
-tell me more.
+who are you.
+more.
 tell me about your skills.
 tell me about your employment.
-tell me about your YouTube.
+tell me about YouTube.
 what is batch process.
 what is fasetto.
 what is link.

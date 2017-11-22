@@ -16,4 +16,4 @@ By now I was about 13 and started getting interested in business. My parents are
 
 I started making applications of various types and styles, from calculators to 3D engines to websites, along the way picking up knowledge of C#, ASP.Net, Javascript and many more languages. Once I had learned a certain number of languages they all came very easily and naturally to me.
 
-To find out more you can say, tell me about your employment, tell me about your skills, or if that is all say, stop.
+To find out more you can say, your employment, your skills, or if that is all say, stop.
